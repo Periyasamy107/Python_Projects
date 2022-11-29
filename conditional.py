@@ -42,6 +42,11 @@ elif a<=150:
 else:
     print("greater than 150")   '''
 
+name = 'sam'
+if 'i' in name:
+    print('yes')
+else:
+    print('no')
 
 """ a = 68
 b = 78
@@ -57,8 +62,9 @@ elif c>=a and c>=b and c>=d:
 else:
     print('d is equal to or greater than a,b,c') """
 
-a=-5
+""" a=2
 if a>0:
     print(a)
 else:
-    print(0)
+    print(0) """
+
