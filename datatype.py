@@ -55,3 +55,10 @@ tuple = ('sam','good',45,45.789,False)
 print(tuple)
 print(type(tuple)) """
 
+""" # this is dictionary datatype
+dictionary = {'name': 'sam',
+               'age': 67,
+               'salary':10000}
+print(dictionary)
+print(type(dictionary)) """
+
