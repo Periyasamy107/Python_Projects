@@ -45,3 +45,6 @@ name = 'Marina'
 print(name)
 print(type(name)) """
 
+l = [1,'sam',True,6.78]
+print(l)
+print(type(l))
