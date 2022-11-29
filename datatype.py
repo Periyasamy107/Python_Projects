@@ -45,6 +45,7 @@ name = 'Marina'
 print(name)
 print(type(name)) """
 
+""" # this is list datatype
 l = [1,'sam',True,6.78]
 print(l)
-print(type(l))
+print(type(l)) """
