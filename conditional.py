@@ -58,4 +58,3 @@ else:
     print('d is equal to or greater than a,b,c') """
 
 print('hello world')
-print('work fine')
