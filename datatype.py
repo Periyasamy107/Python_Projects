@@ -30,8 +30,12 @@ print(type(c)) """
 # tuple => (1,7.53,'sam',False)
 # dictionay => {'name':'sam','age':345,'salary':10000}
 
-# this is ineger datatype
+''' # this is ineger datatype
 a = 5
 print(a)
-print(type(a))
+print(type(a))  '''
+
+f = 8.90
+print(f)
+print(type(f))
 
