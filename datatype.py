@@ -40,3 +40,8 @@ f = 8.90
 print(f)
 print(type(f)) """
 
+""" # this is string datatype
+name = 'Marina'
+print(name)
+print(type(name)) """
+
