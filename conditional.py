@@ -57,4 +57,8 @@ elif c>=a and c>=b and c>=d:
 else:
     print('d is equal to or greater than a,b,c') """
 
-print('hello world')
+a=-5
+if a>0:
+    print(a)
+else:
+    print(0)
