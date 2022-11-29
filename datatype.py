@@ -49,3 +49,9 @@ print(type(name)) """
 l = [1,'sam',True,6.78]
 print(l)
 print(type(l)) """
+
+""" # this is tuple datatype
+tuple = ('sam','good',45,45.789,False)
+print(tuple)
+print(type(tuple)) """
+
