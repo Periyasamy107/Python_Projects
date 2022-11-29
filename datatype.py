@@ -35,7 +35,8 @@ a = 5
 print(a)
 print(type(a))  '''
 
+""" # this is float datatype
 f = 8.90
 print(f)
-print(type(f))
+print(type(f)) """
 
