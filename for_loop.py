@@ -621,3 +621,7 @@ for i in range(1,n):
             print('  ',end=' ')
     print() """
 
+l = []
+for i in range(1,11):
+    l.append(i)
+print(l)
