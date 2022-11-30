@@ -621,7 +621,16 @@ for i in range(1,n):
             print('  ',end=' ')
     print() """
 
-l = []
+""" l = []
 for i in range(1,11):
     l.append(i)
-print(l)
+print(l) """
+
+""" a = []
+b = []
+name = 'samy is a good person'
+for i,j in enumerate(name,1):
+    a.append(i)
+    b.append(j)
+print(*a)
+print(*b) """
