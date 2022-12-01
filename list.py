@@ -32,6 +32,9 @@ list.append(a)
 list.append(678)
 print(list)  '''
 
-res = [number for number in range(1,6)]
-print(res)
+""" res = [number for number in range(1,6)]
+print(res) """
 
+""" List = [1,'sam',True,4.56]
+res = [print(i) for i in List ]
+print(res) """
