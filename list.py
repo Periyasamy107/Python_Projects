@@ -12,7 +12,7 @@ print(list[:3])
 print(list[-4:-1])
 print(list[:-3])   '''
 
-list = ["sam",'lina',56,67.8,'true','lina',90]
+''' list = ["sam",'lina',56,67.8,'true','lina',90]
 
 list[0] = 77
 
@@ -30,7 +30,8 @@ print(list)
 a = [14,15,16,'you']
 list.append(a)
 list.append(678)
-print(list)
+print(list)  '''
 
-
+res = [number for number in range(1,6)]
+print(res)
 
