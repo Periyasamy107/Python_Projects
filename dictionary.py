@@ -33,7 +33,7 @@ print(dictt)
 dictt.pop('gender')
 print(dictt)  """
 
-dictionary = {1:'apple',2:'orange',3:'banana'}
+""" dictionary = {1:'apple',2:'orange',3:'banana'}
 
 print(dictionary[1])
 
@@ -45,7 +45,7 @@ print(dictionary.keys())
 
 print(dictionary.values())
 
-print(dictionary.items())
+print(dictionary.items()) """
 
 
 
