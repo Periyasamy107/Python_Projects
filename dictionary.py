@@ -41,6 +41,12 @@ print(dictionary[2])
 
 print(dictionary[3])
 
+print(dictionary.keys())
+
+print(dictionary.values())
+
+print(dictionary.items())
+
 
 
 
