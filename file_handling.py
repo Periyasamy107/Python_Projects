@@ -130,3 +130,6 @@ with open(filename,'w') as file:
 with open(filename,'r') as file:
     print(file.read()) """
 
+""" with open('sample.txt','a') as file:
+    file.write('\nI think this comment is right') """
+    
