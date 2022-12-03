@@ -137,3 +137,7 @@ filename = 'test.txt'
 """ with open(filename,'w') as file:
     file.write('testttt text file') """
 
+""" with open(filename,'w') as file:
+    file.write('good')
+    file.write('\nnice') """
+
