@@ -123,3 +123,10 @@ with open(filename,'r') as file:
 with open(filename,'w') as file:
     file.write('I am a good boy') """
 
+""" with open('sample.txt','r') as file:
+    print(file.read()) """
+
+""" filename = 'sample.txt'
+with open(filename,'r') as file:
+    print(file.read()) """
+
