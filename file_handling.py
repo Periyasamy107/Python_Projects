@@ -133,3 +133,7 @@ with open(filename,'r') as file:
 """ with open('sample.txt','a') as file:
     file.write('\nI think this comment is right') """
     
+filename = 'test.txt'
+""" with open(filename,'w') as file:
+    file.write('testttt text file') """
+
