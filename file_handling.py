@@ -133,11 +133,18 @@ with open(filename,'r') as file:
 """ with open('sample.txt','a') as file:
     file.write('\nI think this comment is right') """
     
-filename = 'test.txt'
-""" with open(filename,'w') as file:
+"""filename = 'test.txt'
+with open(filename,'w') as file:
     file.write('testttt text file') """
 
 """ with open(filename,'w') as file:
     file.write('good')
     file.write('\nnice') """
+
+""" with open(filename,'a') as file:
+    file.write('apple\n')
+    file.write('orange\n')
+    file.write('pineapple\n')
+    file.write('banana') """
+
 
