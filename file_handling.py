@@ -171,4 +171,8 @@ file.close() """
 """ with open('sample.txt','a') as file:
     print(file.write('\norange')) """
 
+""" fruits = ['apple','orange','banana']
+filename = 'sample.txt'
+with open(filename,'w') as file:
+    file.writelines(fruits) """
 
