@@ -176,3 +176,8 @@ filename = 'sample.txt'
 with open(filename,'w') as file:
     file.writelines(fruits) """
 
+""" fruits = ['apple','orange','banana']
+filename = 'sample.txt'
+with open(filename,'w') as file:
+    for i in fruits:
+        file.write(i+'\n') """
