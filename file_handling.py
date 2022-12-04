@@ -147,4 +147,28 @@ with open(filename,'w') as file:
     file.write('pineapple\n')
     file.write('banana') """
 
+""" filename = 'sample.txt'
+file = open(filename,'r') 
+#output = file.read()   #--> read all lines
+#output = file.readline()  #--> read first line
+output = file.readlines()  #--> read all lines and give result like list
+print(output)
+file.close() """
+
+""" with open('sample.txt','r') as file:
+    res = file.readlines()
+    print(res) """
+
+""" with open('sample.txt','w') as file:
+    file.write('Biggod')
+    file.write('\nSamy') """
+
+""" with open('sample.txt','w') as file:
+    out1 = file.write('Biggod')
+    out2 = file.write('\nSamy')
+    print(out1,out2) """
+
+""" with open('sample.txt','a') as file:
+    print(file.write('\norange')) """
+
 
