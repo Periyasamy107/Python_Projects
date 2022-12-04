@@ -185,3 +185,7 @@ with open(filename,'w') as file:
 """ with open('sample.txt','a') as file:
     file.write('pineapple\n') """
 
+""" with open('sample.txt','w') as file:
+    for i in range(1,11):
+        file.write(f'{i}\n') """
+
