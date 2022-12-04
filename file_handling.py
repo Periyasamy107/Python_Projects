@@ -187,5 +187,23 @@ with open(filename,'w') as file:
 
 """ with open('sample.txt','w') as file:
     for i in range(1,11):
-        file.write(f'{i}\n') """
+        file.write(f'{i}\n')  """
+
+""" with open('sample.txt','r') as file:
+    print(file.readlines()) """
+
+""" with open('sample.txt','r') as file:
+    result = file.readlines()
+    output = [i.strip('\n') for i in result]
+    print(output) """
+
+""" with open('sample.txt','r') as file:
+    result = file.readlines()
+    output = [int(i.strip('\n')) for i in result]
+    print(output) """
+
+""" with open('sample.txt','r') as file:
+    result = file.readlines()
+    output = [int(i.strip('\n')) for i in result]
+    print(sum(output)) """
 
