@@ -214,3 +214,10 @@ file = open(filename,'r')
 res = file.readlines()
 print(res) """
 
+""" with open('sample.txt','r') as file:
+    out = file.read()
+    print(out) """
+
+""" with open('sample.txt','w') as file:
+    file.write('Biggod') """
+
