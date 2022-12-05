@@ -232,3 +232,6 @@ with open(filename,'w') as file:
     for i in fruits:
         file.write(i+'\n') """
 
+""" with open('sample.txt','a') as file:
+    file.write('pineapple\n') """
+
