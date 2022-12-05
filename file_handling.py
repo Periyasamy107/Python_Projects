@@ -235,3 +235,21 @@ with open(filename,'w') as file:
 """ with open('sample.txt','a') as file:
     file.write('pineapple\n') """
 
+""" with open('sample.txt','w') as file:
+    for i in range(1,11):
+        file.write(f'{i}\n') """
+
+""" with open('sample.txt','r') as file:
+    print(file.readlines()) """
+
+""" filename = 'sample.txt'
+with open(filename,'r') as file:
+    output = file.readlines()
+    result = [i.strip('\n') for i in output]
+    print(result) """
+
+""" with open('sample.txt','r') as file:
+    res = file.readlines()
+    out = [int(i.strip('\n')) for i in res]
+    print(out) """
+
