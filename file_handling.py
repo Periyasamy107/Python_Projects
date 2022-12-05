@@ -221,3 +221,14 @@ print(res) """
 """ with open('sample.txt','w') as file:
     file.write('Biggod') """
 
+""" fruits = ['apple','orange']
+filename = 'sample.txt'
+with open(filename,'w') as file:
+    file.writelines(fruits) """
+
+""" fruits = ['orange','apple']
+filename = 'sample.txt'
+with open(filename,'w') as file:
+    for i in fruits:
+        file.write(i+'\n') """
+
