@@ -207,3 +207,10 @@ with open(filename,'w') as file:
     output = [int(i.strip('\n')) for i in result]
     print(sum(output)) """
 
+""" filename = 'sample.txt'
+file = open(filename,'r')
+#res = file.read()
+#res = file.readline()
+res = file.readlines()
+print(res) """
+
