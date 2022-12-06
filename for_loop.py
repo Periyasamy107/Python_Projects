@@ -645,3 +645,17 @@ for i in tuple1:
     l.append(i)
 print(*l) """
 
+""" dict1 = {1:'sam','salary':3400,'age':78}
+print('whole dictionary is print')
+for i in dict1.items():
+    print(i)
+print()
+print('dictionary keys only print')
+for j in dict1.keys():
+    print(j)
+print()
+print('dictionary values only print')
+for k in dict1.values():
+    print(k)
+print() """
+
