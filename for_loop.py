@@ -659,3 +659,8 @@ for k in dict1.values():
     print(k)
 print() """
 
+""" start = int(input('Enter the starting value : '))
+end = int(input('Enter the end range value : '))
+for i in range(start,end):
+    print(i) """
+
