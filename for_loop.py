@@ -638,3 +638,10 @@ print(*b) """
 """ List = [1,3.4,'sam',True,False]
 for i in List:
     print(i) """
+
+""" tuple1 = ('same as list',6.754,56,False)
+l = []
+for i in tuple1:
+    l.append(i)
+print(*l) """
+
