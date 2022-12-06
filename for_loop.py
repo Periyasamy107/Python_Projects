@@ -634,3 +634,7 @@ for i,j in enumerate(name,1):
     b.append(j)
 print(*a)
 print(*b) """
+
+""" List = [1,3.4,'sam',True,False]
+for i in List:
+    print(i) """
