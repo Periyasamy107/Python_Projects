@@ -664,3 +664,10 @@ end = int(input('Enter the end range value : '))
 for i in range(start,end):
     print(i) """
 
+""" l = []
+for i in range(1,9):
+    l.append(i)
+print(type(i))
+print(l)
+print(*l) """
+
