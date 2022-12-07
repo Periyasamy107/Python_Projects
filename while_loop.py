@@ -105,7 +105,10 @@ while num>0:
     num=num//10
 print('Reverse number is : ',rev_number) """
 
-
+""" i=1
+while i<=10:
+    print(i)
+    i+=1 """
 
 
 
