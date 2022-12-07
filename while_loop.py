@@ -110,7 +110,12 @@ while i<=10:
     print(i)
     i+=1 """
 
-
+""" n = int(input('Enter a number : '))
+c = 0
+while c < n:
+    n = n // 10
+    c += 1
+print('Total digits of a given number : ',c) """
 
 
 
