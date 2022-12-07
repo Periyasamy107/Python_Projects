@@ -117,7 +117,13 @@ while c < n:
     c += 1
 print('Total digits of a given number : ',c) """
 
-
+""" n = int(input('Enter a number : '))
+r = 0
+while n>0:
+    d = n%10
+    r = (r*10)+d
+    n = n//10
+print('Reverse of a given number : ',r) """
 
 
 
