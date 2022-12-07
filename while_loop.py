@@ -125,8 +125,12 @@ while n>0:
     n = n//10
 print('Reverse of a given number : ',r) """
 
-
-
+""" n = int(input('Enter a number : '))
+summ = 0
+while 0 < n:
+    summ = summ + n
+    n -= 1
+print('Total of a number : ',summ) """
 
 
 
