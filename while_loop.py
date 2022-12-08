@@ -131,12 +131,3 @@ while 0 < n:
     summ = summ + n
     n -= 1
 print('Total of a number : ',summ) """
-
-
-
-
-
-
-
-
-
