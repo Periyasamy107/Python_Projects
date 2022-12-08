@@ -838,9 +838,19 @@ def sam():
 
 sam() """
 
+""" def sample():
+    print('sam')
+    print('is')
+    print('a')
+    print('good')
+    print('boy')
 
+sample()
 
+def sample1():
+    print('sam','is','a','good','boy',end=' ')
 
+sample1() """
 
 
 
