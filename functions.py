@@ -7,7 +7,7 @@
 samfunction()   '''
 
 ''''   def sam (x,y):
-    print(1+x)
+    print(1+x)        #-----------
     print('i am a great '+y)
 
 sam(8,'person')   '''
@@ -852,7 +852,11 @@ def sample1():
 
 sample1() """
 
+""" def sample(x,y):
+    print(1+x)
+    print('nature is '+y)
 
+sample(4,'wonderful') """
 
 
 
