@@ -32,7 +32,7 @@ def sample4 ():
     total = d / e
     print(total)
 
-def sample5 (f,g):
+def sample5 (f,g):       #--------
     f = print('enter first value : ',f)
     g = print('enter second value : ',g)
 
@@ -858,7 +858,16 @@ sample1() """
 
 sample(4,'wonderful') """
 
+""" def calc(a,b):
+    add = a+b
+    sub = a-b
+    mul = a*b
+    div = a/b
+    mod = a%b
+    print(f'add : {add}\nsub : {sub}\nmul : {mul}\ndiv : {int(div)}\nmod : {mod}')
 
+x,y = 20,10
+calc(x,y) """
 
 
 
