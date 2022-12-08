@@ -272,7 +272,7 @@ print('list ',list)  '''
     print(c)
 
 add(3,4)         # arguments or actual arguments  '''
-
+#---------------------------------------
 ''' # positional arguments
 def person(name,age):
     print('Name : ',name)
@@ -869,7 +869,12 @@ sample(4,'wonderful') """
 x,y = 20,10
 calc(x,y) """
 
+""" def list_fun(List):
+    for items in List:
+        print(items)
 
+List = ['apple','orange','banana']
+list_fun(List) """
 
 
 
