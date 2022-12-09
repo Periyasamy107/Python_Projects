@@ -890,4 +890,10 @@ greetings('ram','sam','lina') """
         print(i)
 numbers(1,2,3,4,5) """
 
+""" # positional arguments
+def details(name,age):
+    print(name)
+    print(age)
+
+details('sam',34) """
 
