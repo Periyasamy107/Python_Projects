@@ -199,7 +199,7 @@ greetings('sam','lina','kali') '''
         print('number : ',lop)
 
 lop(1,2,3,4,5) '''
-
+#--------------------------
 '''  #without argument without return
 def add():
     a = int(input("A value is  "))
@@ -876,5 +876,18 @@ calc(x,y) """
 List = ['apple','orange','banana']
 list_fun(List) """
 
+#orbitrary arguments
+""" def greetings(*friends):
+    for friend in friends:
+        print('hi',friend)
+
+greetings('ram','sam','lina') """
+
+"""def numbers(*numberslist):
+    for i in numberslist:
+        if i == 3 or i == 4:
+            continue
+        print(i)
+numbers(1,2,3,4,5) """
 
 
