@@ -279,7 +279,7 @@ def person(name,age):
     print('Age  : ',age)
 
 print('Biggod',76)  '''
-
+#----------------------
 '''#keyword arguments
 def person(name,age):
     print('Name : ',name)
@@ -287,7 +287,7 @@ def person(name,age):
 
 person(name='Sam',age=45)
 person(age=28,name='papanu')'''
-
+#----------------------
 '''#default arguments
 def person(name,age=60):
     print('Name : ',name)
@@ -896,4 +896,13 @@ def details(name,age):
     print(age)
 
 details('sam',34) """
+
+""" #keyword arguments
+def det(name,age):
+    print(name)
+    print(age)
+    print()
+
+det(name='ams',age=34)
+det(age=45,name='papina') """
 
