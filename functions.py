@@ -295,7 +295,7 @@ def person(name,age=60):
 
 person(name='Sam',age=46)
 person(name='lina')'''
-
+#-------------------------------------------------
 '''#variable length arguments
 def add(a,*b):
     print(a)
@@ -905,4 +905,13 @@ def det(name,age):
 
 det(name='ams',age=34)
 det(age=45,name='papina') """
+
+""" #default arguments
+def det(name,age=56):
+    print(name)
+    print(age)
+    print()
+
+det('sam',34)
+det('tom') """
 
