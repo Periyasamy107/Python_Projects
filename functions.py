@@ -308,7 +308,7 @@ def add(a,*b):
         c += i
     print(c)
 add(4,5,6,7,8)'''
-
+#----------------------------------------------------------------------
 '''def add(*a):
     b = 0
     for i in a:
@@ -915,3 +915,12 @@ def det(name,age=56):
 det('sam',34)
 det('tom') """
 
+""" #variable length arguments
+def add(a,*b):
+    print(a)
+    print(b)
+    for i in b:
+        a+=i 
+    print(a)
+
+add(2,3,4,5,1) """
