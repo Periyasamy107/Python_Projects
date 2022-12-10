@@ -930,3 +930,9 @@ def printing():
     print('Samy')
 printing() """
 
+""" # with arguments without return
+def sample(a,b):
+    print(1+a)
+    print('hi '+b)
+sample(5,'samy') """
+
