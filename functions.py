@@ -936,3 +936,12 @@ def sample(a,b):
     print('hi '+b)
 sample(5,'samy') """
 
+""" # without arguments with return
+def returns():
+    a = 8
+    b = 2
+    total = a + b
+    return total 
+result = returns()
+print(result) """
+
