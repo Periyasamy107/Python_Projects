@@ -945,3 +945,10 @@ def returns():
 result = returns()
 print(result) """
 
+""" # with arguments with return
+def returns(a,b):
+    multiplication = a * b
+    return multiplication
+result = returns(3,15)
+print(result) """
+
