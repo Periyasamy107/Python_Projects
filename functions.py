@@ -340,7 +340,7 @@ greet()'''
 greet('big','god')
 greet('leone','mirchi')
 '''
-
+#--------------------------------------------------------------------------------
 '''def greet(name):
     return f'hi {name}'
 
@@ -924,3 +924,9 @@ def add(a,*b):
     print(a)
 
 add(2,3,4,5,1) """
+
+""" # without arguments without return
+def printing():
+    print('Samy')
+printing() """
+
