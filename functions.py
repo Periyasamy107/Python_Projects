@@ -399,7 +399,7 @@ multiply(2,3,4,5)'''
     return total
 
 print('Outside total : ',multiply(2,3,4,5))'''
-
+#--------------------------------------------------------------------
 '''def save_user(**user): ## using parameter in double ** great the dictionary
     print(user)
     print(user["id"])
@@ -950,5 +950,13 @@ def returns(a,b):
     multiplication = a * b
     return multiplication
 result = returns(3,15)
+print(result) """
+
+""" def addition(*numbers):
+    total = 1
+    for number in numbers:
+        total += number 
+    return total 
+result = addition(1,2,3)
 print(result) """
 
