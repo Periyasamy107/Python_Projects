@@ -960,3 +960,11 @@ print(result) """
 result = addition(1,2,3)
 print(result) """
 
+""" def save_user(**user): ## using parameter in double ** great the dictionary
+    print(user)
+save_user(id=1,name='sam',age=34) """
+
+""" def sam(**i):
+    print(i)
+sam(id=1,name='sam',age=34,salary=5000) """
+
