@@ -449,7 +449,7 @@ a = 4.5
 b = 5.5
 new_variable = add_numbers(a,b)
 print('The sum is : ',new_variable)'''
-
+#--------------------------------------------------------------------------------------------
 '''# function to find average marks
 def find_average_marks(marks):
     sum_of_marks = sum(marks)
@@ -967,4 +967,13 @@ save_user(id=1,name='sam',age=34) """
 """ def sam(**i):
     print(i)
 sam(id=1,name='sam',age=34,salary=5000) """
+
+""" def average_fun(*marks):
+    sum_marks = sum(marks)
+    subjects = len(marks)
+    average_marks = sum_marks/subjects
+    return average_marks
+
+result = average_fun(4,4,6,6,8,8,9)
+print(f'{result:.2f}')  """
 
