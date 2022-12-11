@@ -477,7 +477,7 @@ print('Your average mark is : ',average_marks)
 
 grade = compute_grade(average_marks)
 print("Your grade is : ",grade)'''
-
+#-------------------------------------------------------------------------------------------
 '''#add_numbers
 def add_nummbers(n1,n2):
     addition = n1 + n2 
@@ -976,4 +976,24 @@ sam(id=1,name='sam',age=34,salary=5000) """
 
 result = average_fun(4,4,6,6,8,8,9)
 print(f'{result:.2f}')  """
+
+""" def avg_find(*marks):
+    sum_marks = sum(marks)
+    total_subjects = len(marks)
+    average_marks = sum_marks/total_subjects
+    return int(average_marks)
+
+def grade(average_marks):
+    if average_marks>=90:
+        print('A')
+    elif average_marks>=75:
+        print('B')
+    elif average_marks>=60:
+        print('C')
+    elif average_marks>=50:
+        print('D')
+    else:
+        print('E')
+
+grade(avg_find(92,90,75,97,90,9)) """
 
