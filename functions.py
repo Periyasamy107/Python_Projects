@@ -997,3 +997,13 @@ def grade(average_marks):
 
 grade(avg_find(92,90,75,97,90,9)) """
 
+""" dictionary = {
+    'FirstName' : 'Big',
+    'SecondName' : 'God'
+}
+
+def dictdecomposer(dict):
+    print(f'The keys of the dictionary are {list(dict.keys())}')
+    print(f'The values of the dictionary are {list(dict.values())}')
+
+dictdecomposer(dictionary) """
