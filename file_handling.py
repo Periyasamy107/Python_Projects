@@ -256,9 +256,14 @@ with open(filename,'r') as file:
 """ with open('sample.txt','r') as file:
     print(file.read()) """
 
-with open('sample.txt','w') as file:
+""" with open('sample.txt','w') as file:
     file.write('sam\n')
     file.write('is\n')
     file.write('a\n')
     file.write('good\n')
-    file.write('boy')
+    file.write('boy') """
+
+""" with open('sample.txt','a') as file:
+    file.write('\napple')
+    file.write('\norange') """
+

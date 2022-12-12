@@ -3,3 +3,5 @@ is
 a
 good
 boy
+apple
+orange
