@@ -1007,3 +1007,23 @@ def dictdecomposer(dict):
     print(f'The values of the dictionary are {list(dict.values())}')
 
 dictdecomposer(dictionary) """
+
+""" def avg(*marks):
+    sum_marks = sum(marks)
+    total_subjects = len(marks)
+    avg_marks = sum_marks / total_subjects
+    return avg_marks
+
+def grade(avg_marks):
+    if avg_marks>=80:
+        return 'A'
+    elif avg_marks>=60:
+        return 'B'
+    elif avg_marks>=50:
+        return 'C'
+    else:
+        return 'D'
+
+res = grade(avg(70,59,45,34))
+print(res) """
+
