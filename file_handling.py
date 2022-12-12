@@ -267,3 +267,9 @@ with open(filename,'r') as file:
     file.write('\napple')
     file.write('\norange') """
 
+""" a = 1
+with open('sample.txt','w')as file:
+    while a<11:
+        file.write(str(a)+'\n')
+        a+=1 """
+
