@@ -253,3 +253,6 @@ with open(filename,'r') as file:
     out = [int(i.strip('\n')) for i in res]
     print(out) """
 
+""" with open('sample.txt','r') as file:
+    print(file.read()) """
+
