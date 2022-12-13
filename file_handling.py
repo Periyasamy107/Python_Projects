@@ -277,3 +277,9 @@ with open('sample.txt','w')as file:
 print(file.read())
 file.close() """
 
+""" file = open('sample.txt','w')
+file.write('Biggod')
+file.write('\nis')
+file.write('\ngreat')
+file.close() """
+
