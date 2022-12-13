@@ -283,3 +283,7 @@ file.write('\nis')
 file.write('\ngreat')
 file.close() """
 
+""" with open('sample.txt','w')as file:
+    for i in range(1,11):
+        file.write(str(i)+'\n') """
+
