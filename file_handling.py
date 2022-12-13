@@ -273,3 +273,7 @@ with open('sample.txt','w')as file:
         file.write(str(a)+'\n')
         a+=1 """
 
+""" file = open('sample.txt','r')
+print(file.read())
+file.close() """
+
