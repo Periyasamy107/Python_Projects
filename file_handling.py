@@ -287,3 +287,8 @@ file.close() """
     for i in range(1,11):
         file.write(str(i)+'\n') """
 
+""" with open('sample.txt','r') as file:
+    out = file.readlines()
+    res = [ int(i.strip('\n')) for i in out]
+    print(*res) """
+
