@@ -74,7 +74,7 @@ if 'i' not in name:
 else:
     print('i is in name') """
 
-number = 5
+""" number = 5
 if number == 1:
     print('Monday')
 elif number == 2:
@@ -90,4 +90,10 @@ elif number == 6:
 elif number == 7:
     print('Sunday')
 else:
-    print('Please enter numbers b/w 1 to 7')
+    print('Please enter numbers b/w 1 to 7') """
+
+""" for i in range(1,11):
+    if i == 5 or i == 7 or i == 2:
+        continue
+    print(i) """
+
