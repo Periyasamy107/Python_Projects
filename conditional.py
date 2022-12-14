@@ -97,3 +97,13 @@ else:
         continue
     print(i) """
 
+""" i = 1
+while i<=50:
+    print(i)
+    i+=5
+    print(i)
+    i+=3
+    if i == 27:
+        break 
+    print(i)
+    i+=10 """
