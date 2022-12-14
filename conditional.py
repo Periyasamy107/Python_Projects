@@ -41,13 +41,13 @@ elif a<=150:
     print('between 150')
 else:
     print("greater than 150")   '''
-
+""" 
 name = 'sam'
 if 'i' in name:
     print('yes')
 else:
     print('no')
-
+"""
 """ a = 68
 b = 78
 c = 98
@@ -67,4 +67,10 @@ if a>0:
     print(a)
 else:
     print(0) """
+
+""" name = 'biggod'
+if 'i' not in name:
+    print('i is not in name')
+else:
+    print('i is in name') """
 
