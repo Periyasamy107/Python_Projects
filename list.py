@@ -38,3 +38,7 @@ print(res) """
 """ List = [1,'sam',True,4.56]
 res = [print(i) for i in List ]
 print(res) """
+
+""" res = [i for i in range(1,11)]
+print(res) """
+
