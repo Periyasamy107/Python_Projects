@@ -49,3 +49,6 @@ print(odd_even) """
 res = [i for i in name if name.count(i)==2 ]
 print(res) """
 
+""" res = [i for i in range(1,11) if i==3 or i==5 or i==7 or i==1 or i==9 or i==11 ]
+print(res) """
+
