@@ -1027,3 +1027,18 @@ def grade(avg_marks):
 res = grade(avg(70,59,45,34))
 print(res) """
 
+""" def summ(values):
+    summ_of_the_list = sum(values)
+    return summ_of_the_list
+
+def counting(sum_of_the_list):
+    for i in range(1,sum_of_the_list+1):
+        l.append(i)
+    return l 
+
+l = [ ]
+List = [1,2,3,4]
+output = counting(summ(List))
+print(*output) """
+
+
