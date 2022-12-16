@@ -1041,4 +1041,15 @@ List = [1,2,3,4]
 output = counting(summ(List))
 print(*output) """
 
+""" def looop(number):
+    for i in range(1,number+1):
+        l.append(i)
+    return l 
+def summ(l):
+    output = sum(l)
+    return output 
+l = []
+result = summ(looop(10))
+print(result) """
+
 
