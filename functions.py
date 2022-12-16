@@ -1052,4 +1052,16 @@ l = []
 result = summ(looop(10))
 print(result) """
 
+""" def name_fun():
+    inputt = input('Enter your name : ')
+    return inputt 
+def whille(inputt):
+    i = 0
+    while i<len(inputt):
+        l.append(inputt[i])
+        i+=1
+    return l 
+l = []
+result = whille(name_fun())
+print(*result) """
 
