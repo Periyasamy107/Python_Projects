@@ -1065,3 +1065,18 @@ l = []
 result = whille(name_fun())
 print(*result) """
 
+""" def inputt():
+    inp = list(map(int,input('Enter a numbers with one space : ').split()))
+    return inp 
+def summ(inp):
+    out = sum(inp)
+    return out 
+def for_loop(out):
+    for i in range(1,out+1):
+        l.append(i)
+    return l 
+
+l = []
+result = for_loop(summ(inputt()))
+print(*result) """
+
