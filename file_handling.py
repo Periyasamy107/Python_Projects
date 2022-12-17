@@ -300,3 +300,7 @@ file.close() """
 """ with open('test.txt','r') as file:
     print(file.read()) """
 
+""" with open('test.txt','w') as file:
+    for i in range(11,21):
+        file.writelines(str(i)+'\n') """
+
