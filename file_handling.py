@@ -304,3 +304,10 @@ file.close() """
     for i in range(11,21):
         file.writelines(str(i)+'\n') """
 
+""" with open('test.txt','r') as file:
+    l = file.readlines()
+    a = [int(i.strip('\n')) for i in l]
+    for j in a:
+        print(int(j))
+    print(type(j)) """
+
