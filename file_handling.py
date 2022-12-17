@@ -297,3 +297,6 @@ file = open(filename,'r')
 print(file.read())
 file.close() """
 
+""" with open('test.txt','r') as file:
+    print(file.read()) """
+
