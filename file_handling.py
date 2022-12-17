@@ -292,3 +292,8 @@ file.close() """
     res = [ int(i.strip('\n')) for i in out]
     print(*res) """
 
+""" filename = 'test.txt'
+file = open(filename,'r')
+print(file.read())
+file.close() """
+
