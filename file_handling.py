@@ -311,3 +311,7 @@ file.close() """
         print(int(j))
     print(type(j)) """
 
+""" with open('test.txt','a') as file:
+    for i in range(101,111):
+        file.write(str(i)+'\n') """
+
