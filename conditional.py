@@ -107,3 +107,10 @@ while i<=50:
         break 
     print(i)
     i+=10 """
+
+""" name = 'samy'
+if type(name) == str:
+    print('yes! it is a string')
+else:
+    print('not a string') """
+
