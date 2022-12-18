@@ -343,3 +343,6 @@ file.close() """
         a = file.read()
         print(a) """
 
+""" with open('test.txt','r') as file:
+    print(file.read()) """
+
