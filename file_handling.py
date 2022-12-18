@@ -325,3 +325,9 @@ file.close() """
         file.write(str(i)+' '+'Biggod'+'\n')
         print(file.read()) """
 
+""" with open('empty.txt','r+')as file:
+    for i in range(1,3):
+        file.writelines(str(i)+' '+'Nice'+'\n')
+        a = file.read()
+        print(a) """
+
