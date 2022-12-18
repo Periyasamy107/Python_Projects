@@ -331,3 +331,8 @@ file.close() """
         a = file.read()
         print(a) """
 
+""" with open('test.txt','w+') as file:
+    for i in range(1,6):
+        file.write(str(i)+' ')
+        a = file.read()
+        print(a) """  
