@@ -320,3 +320,8 @@ file.close() """
         file.write('\n'+str(i)+' ')
         print(file.read()) """
         
+""" with open('empty.txt','w+') as file:
+    for i in range(1,11):
+        file.write(str(i)+' '+'Biggod'+'\n')
+        print(file.read()) """
+
