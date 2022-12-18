@@ -52,3 +52,6 @@ print(res) """
 """ res = [i for i in range(1,11) if i==3 or i==5 or i==7 or i==1 or i==9 or i==11 ]
 print(res) """
 
+""" res = ['even' if i%2==0 else 'odd' for i in range(1,11)]
+print(res) """
+
