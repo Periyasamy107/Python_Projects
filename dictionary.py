@@ -47,6 +47,10 @@ print(dictionary.values())
 
 print(dictionary.items()) """
 
+""" d = { 'name' : 'samy', 'age' : 46}
+print(d.items())
+print(d.values())
+print(d.keys())   """
 
 
 
