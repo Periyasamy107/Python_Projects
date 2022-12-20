@@ -59,3 +59,6 @@ print(res) """
 res = [ i for i in name]
 print(*res) """
 
+""" numbers = [ i for i in range(1,11)]
+print(numbers) """
+
