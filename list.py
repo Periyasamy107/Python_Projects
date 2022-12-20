@@ -68,3 +68,7 @@ print(num) """
 """ even = [ i for i in range(1,11) if i%2==0]
 print(even) """
 
+""" name = 'biggod'
+up = [i.upper() for i in name]
+print(up) """
+
