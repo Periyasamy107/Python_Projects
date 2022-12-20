@@ -72,3 +72,7 @@ print(even) """
 up = [i.upper() for i in name]
 print(up) """
 
+""" topic = 'This Is Nice'
+res = [i.swapcase() for i in topic]
+print(res) """
+
