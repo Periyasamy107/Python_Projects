@@ -55,3 +55,7 @@ print(res) """
 """ res = ['even' if i%2==0 else 'odd' for i in range(1,11)]
 print(res) """
 
+""" name = 'biggod'
+res = [ i for i in name]
+print(*res) """
+
