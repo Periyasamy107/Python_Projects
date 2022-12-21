@@ -89,3 +89,6 @@ print(l) """
 """ l = [i for i in range(1,5)]
 print(l) """
 
+""" l = [ i.upper() for i in 'biggod']
+print(l) """
+
