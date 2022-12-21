@@ -76,3 +76,7 @@ print(up) """
 res = [i.swapcase() for i in topic]
 print(res) """
 
+""" name = 'biggod'
+l = [i for i in name]
+print(l) """
+
