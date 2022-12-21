@@ -80,3 +80,6 @@ print(res) """
 l = [i for i in name]
 print(l) """
 
+""" l = [i for i in range(1,11)]
+print(l) """
+
