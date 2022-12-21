@@ -83,3 +83,6 @@ print(l) """
 """ l = [i for i in range(1,11)]
 print(l) """
 
+""" l = ['even' if i%2==0 else 'odd' for i in range(1,11)]
+print(l) """
+
