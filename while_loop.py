@@ -137,3 +137,10 @@ while(i<11):
     print(i)
     i+=1 """
 
+""" i = 1
+l = []
+while i<=10:
+    l.append(i)
+    i+=1
+print(l) """
+
