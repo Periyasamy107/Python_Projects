@@ -144,3 +144,8 @@ while i<=10:
     i+=1
 print(l) """
 
+""" name = 'biggod'
+while type(name) == str:
+    print(name)
+    break  """
+
