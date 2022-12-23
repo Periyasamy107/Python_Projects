@@ -1080,3 +1080,9 @@ l = []
 result = for_loop(summ(inputt()))
 print(*result) """
 
+""" def printt():
+    name = 'biggod'
+    print(f'Hi, I am {name}')
+
+printt() """
+
