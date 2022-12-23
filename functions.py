@@ -1109,3 +1109,16 @@ numbers = [1,2,3,4,5]
 result = double_num(numbers)
 print(result) """
 
+""" def total(List):
+    out = sum(List)
+    return out
+def prnt(out):
+    l = []
+    for i in range(1,out+1):
+        l.append(i)
+    return l 
+
+numbers = [1,2,3,4,5]
+result = prnt(total(numbers))
+print(sum(result)) """
+
