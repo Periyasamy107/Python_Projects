@@ -1099,3 +1099,13 @@ print(out) """
 
 det('samy',56) """
 
+""" def double_num(List):
+    l = []
+    for i in List:
+        l.append(i*2)
+    return l 
+
+numbers = [1,2,3,4,5]
+result = double_num(numbers)
+print(result) """
+
