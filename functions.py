@@ -1093,3 +1093,9 @@ printt() """
 out = addition()
 print(out) """
 
+""" def det(name,age):
+    print(f'Name : {name}')
+    print(f'Age  : {age}')
+
+det('samy',56) """
+
