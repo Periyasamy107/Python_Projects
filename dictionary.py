@@ -55,6 +55,9 @@ print(d.keys())   """
 d = {'name':'sam','age':45}
 # print(d)
 
+# a = d.copy()
+# print(a)
+
 
 
 
