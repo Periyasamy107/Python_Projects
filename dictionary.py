@@ -52,7 +52,8 @@ print(d.items())
 print(d.values())
 print(d.keys())   """
 
-
+d = {'name':'sam','age':45}
+# print(d)
 
 
 
