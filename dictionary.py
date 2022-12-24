@@ -60,6 +60,9 @@ d = {'name':'sam','age':45}
 
 # print(d.get('ages','not found'))
 
+# d.popitem()
+# print(d)
+
 
 
 
