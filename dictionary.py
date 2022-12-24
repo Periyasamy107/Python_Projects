@@ -63,7 +63,8 @@ d = {'name':'sam','age':45}
 # d.popitem()
 # print(d)
 
-
+# d.pop('name')
+# print(d)
 
 
 
