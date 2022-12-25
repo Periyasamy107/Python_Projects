@@ -74,7 +74,8 @@ d = {'name':'sam','age':45}
 # g = dict.fromkeys(e,f)
 # print(g)
 
-
+# e = d.setdefault('name','lina')
+# print(e) 
 
 
 
