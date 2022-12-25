@@ -69,7 +69,10 @@ d = {'name':'sam','age':45}
 # d.update({'salary' : 4500})
 # print(d)
 
-
+# e = ('name1','name2')
+# f = ('sam')
+# g = dict.fromkeys(e,f)
+# print(g)
 
 
 
