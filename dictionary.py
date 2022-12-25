@@ -66,7 +66,8 @@ d = {'name':'sam','age':45}
 # d.pop('name')
 # print(d)
 
-
+# d.update({'salary' : 4500})
+# print(d)
 
 
 
