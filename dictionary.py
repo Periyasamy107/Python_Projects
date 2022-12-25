@@ -52,7 +52,7 @@ print(d.items())
 print(d.values())
 print(d.keys())   """
 
-d = {'name':'sam','age':45}
+""" d = {'name':'sam','age':45}
 # print(d)
 
 # a = d.copy()
@@ -77,7 +77,11 @@ d = {'name':'sam','age':45}
 # e = d.setdefault('name','lina')
 # print(e) 
 
+d.clear()
+print(d)
 
+del d 
+print(d) """
 
 
 
