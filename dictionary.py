@@ -83,7 +83,7 @@ print(d)
 del d 
 print(d) """
 
-d = {'name':'biggod','age':45}
+""" d = {'name':'biggod','age':45}
 
 # e = d.copy()
 # print(e)
@@ -100,4 +100,10 @@ d = {'name':'biggod','age':45}
 
 # d.update({'salary':8900})
 # print(d)
+
+# d.clear()
+
+# print(d)
+
+# del d  """
 
