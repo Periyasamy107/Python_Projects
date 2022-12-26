@@ -90,7 +90,11 @@ d = {'name':'biggod','age':45}
 
 # print(d.get('age','not found'))
 
+# d.popitem()
+# print(d)
 
+# d.pop('name')
+# print(d)
 
-
+# print(d)
 
