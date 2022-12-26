@@ -98,3 +98,6 @@ d = {'name':'biggod','age':45}
 
 # print(d)
 
+# d.update({'salary':8900})
+# print(d)
+
