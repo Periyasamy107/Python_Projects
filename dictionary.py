@@ -88,6 +88,8 @@ d = {'name':'biggod','age':45}
 # e = d.copy()
 # print(e)
 
+# print(d.get('age','not found'))
+
 
 
 
