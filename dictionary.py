@@ -83,7 +83,10 @@ print(d)
 del d 
 print(d) """
 
+d = {'name':'biggod','age':45}
 
+# e = d.copy()
+# print(e)
 
 
 
