@@ -112,3 +112,5 @@ di = {'name':'trilina','age':98}
 # e = di.copy()
 # print(e)
 
+# print(di.get('age','not found'))
+
