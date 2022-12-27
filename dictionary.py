@@ -120,3 +120,6 @@ di = {'name':'trilina','age':98}
 # di.pop('name')
 # print(di)
 
+# di.update({'salary':9000})
+# print(di)
+
