@@ -114,3 +114,9 @@ di = {'name':'trilina','age':98}
 
 # print(di.get('age','not found'))
 
+# di.popitem()
+# print(di)
+
+# di.pop('name')
+# print(di)
+
