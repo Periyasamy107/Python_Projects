@@ -107,3 +107,8 @@ print(d) """
 
 # del d  """
 
+di = {'name':'trilina','age':98}
+
+# e = di.copy()
+# print(e)
+
