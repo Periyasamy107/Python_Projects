@@ -69,3 +69,4 @@ l = [1,'hi',4.56,True]
 # print(l)
 # a = l.copy()
 # print(a)
+# print(l.count('wonder'))
