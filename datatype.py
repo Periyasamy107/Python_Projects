@@ -67,3 +67,5 @@ l = [1,'hi',4.56,True]
 # print(l)
 # l.append('good')
 # print(l)
+# a = l.copy()
+# print(a)
