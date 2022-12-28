@@ -71,3 +71,5 @@ l = [1,'hi',4.56,True]
 # print(a)
 # print(l.count('wonder'))
 # print(l.index(4.56))
+# l.insert(1,986)
+# print(l)
