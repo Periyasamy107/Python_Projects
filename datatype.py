@@ -70,3 +70,4 @@ l = [1,'hi',4.56,True]
 # a = l.copy()
 # print(a)
 # print(l.count('wonder'))
+# print(l.index(4.56))
