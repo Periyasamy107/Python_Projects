@@ -75,3 +75,5 @@ l = [1,'hi',4.56,True]
 # print(l)
 # l.extend(['good',34556,5.11])
 # print(l)
+# l.pop()
+# print(l)
