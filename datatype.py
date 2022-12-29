@@ -73,3 +73,5 @@ l = [1,'hi',4.56,True]
 # print(l.index(4.56))
 # l.insert(1,986)
 # print(l)
+# l.extend(['good',34556,5.11])
+# print(l)
