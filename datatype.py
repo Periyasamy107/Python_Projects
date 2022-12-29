@@ -79,3 +79,5 @@ l = [1,'hi',4.56,True]
 # print(l)
 # l.remove(1)
 # print(l)
+# l.reverse()
+# print(l)
