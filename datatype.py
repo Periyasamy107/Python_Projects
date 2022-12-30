@@ -62,7 +62,7 @@ dictionary = {'name': 'sam',
 print(dictionary)
 print(type(dictionary)) """
 
-l = [1,'hi',4.56,True]
+""" # l = [1,'hi',4.56,True]
 
 # print(l)
 # l.append('good')
@@ -82,4 +82,10 @@ l = [1,'hi',4.56,True]
 # l.reverse()
 # print(l)
 # l.clear()
-# print(l)
+# print(l) """
+
+""" l = [4,5,67,1,0,99,-8]
+
+l.sort()
+print(l) """
+
