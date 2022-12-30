@@ -93,3 +93,7 @@ print(l) """
 
 print(l.count(9)) """
 
+l = ['sam','tom',56,5,34,12,9.90]
+
+# print(l.index(9.90))
+
