@@ -97,3 +97,6 @@ l = ['sam',45,'God','good',7.87]
 # l.append(23.23)
 # print(l)
 
+# l.extend(['sam',34,3,8])
+# print(l)
+
