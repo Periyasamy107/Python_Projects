@@ -103,3 +103,6 @@ l = ['sam',45,'God','good',7.87]
 # l.reverse()
 # print(l)
 
+# a = l.copy()
+# print(a)
+
