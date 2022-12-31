@@ -92,7 +92,7 @@ print(l) """
 """ l = [ i.upper() for i in 'biggod']
 print(l) """
 
-l = ['sam',45,'God','good',7.87]
+""" l = ['sam',45,'God','good',7.87]
 
 # l.append(23.23)
 # print(l)
@@ -105,4 +105,7 @@ l = ['sam',45,'God','good',7.87]
 
 # a = l.copy()
 # print(a)
+
+l.clear()
+print(l) """
 
