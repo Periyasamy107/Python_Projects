@@ -100,3 +100,6 @@ l = ['sam',45,'God','good',7.87]
 # l.extend(['sam',34,3,8])
 # print(l)
 
+# l.reverse()
+# print(l)
+
