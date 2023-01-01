@@ -133,3 +133,5 @@ d = {'name':'sam','age':45}
 
 # print(d.items())
 
+# print(d.keys())
+
