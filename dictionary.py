@@ -126,7 +126,7 @@ print(d) """
 di.clear()
 print(di) """
 
-d = {'name':'sam','age':45}
+""" d = {'name':'sam','age':45}
 
 # a = d.copy()
 # print(a)
@@ -136,4 +136,7 @@ d = {'name':'sam','age':45}
 # print(d.keys())
 
 # print(d.values())
+
+d.popitem()
+print(d) """
 
