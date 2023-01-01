@@ -131,3 +131,5 @@ d = {'name':'sam','age':45}
 # a = d.copy()
 # print(a)
 
+# print(d.items())
+
