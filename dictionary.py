@@ -126,3 +126,8 @@ print(d) """
 di.clear()
 print(di) """
 
+d = {'name':'sam','age':45}
+
+# a = d.copy()
+# print(a)
+
