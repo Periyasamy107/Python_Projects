@@ -9,3 +9,14 @@ for i in range(n1,n2+1):
     if c==2:
         print(i) """
 
+""" number = 10
+for i in range(1,number+1):
+    c=0
+    for j in range(1,number+1):
+        if i%j==0:
+            c+=1
+if c==2:
+    print(f'{number} is prime')
+else:
+    print('not') """
+
