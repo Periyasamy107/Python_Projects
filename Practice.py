@@ -20,3 +20,11 @@ if c==2:
 else:
     print('not') """
 
+""" n1,n2=0,1
+num=5
+for i in range(num+1):
+    print(n1,end=' ')
+    res=n1+n2
+    n1=n2
+    n2=res """
+
