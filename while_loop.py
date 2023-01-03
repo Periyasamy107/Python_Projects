@@ -43,7 +43,7 @@ while n%10!=0:
     nr = nr*10 + c 
     n = n//10
 print('Reverse number :',nr)
- """
+"""
 
 """ a = [1,3.4,'sam','True']
 length = 0
@@ -160,5 +160,13 @@ i = 0
 while i<len(name):
     print(name[i])
     i+=1 """
+
+""" import random
+
+random_number = random.randint(1,5)
+guessing_number = 0
+while random_number!=guessing_number:
+    guessing_number=int(input('Enter a number b/w 1 to 10 : '))
+print(guessing_number) """
 
 
