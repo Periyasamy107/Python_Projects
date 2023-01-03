@@ -169,4 +169,8 @@ while random_number!=guessing_number:
     guessing_number=int(input('Enter a number b/w 1 to 10 : '))
 print(guessing_number) """
 
+""" a,b = 0,1
+while b<100:
+    print(a,end=' ')
+    a,b = b,a+b  """
 
