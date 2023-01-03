@@ -674,3 +674,7 @@ print(*l) """
 """ for i in range(1,11):
     print(i) """
 
+""" s = 'samy'
+for i in range(len(s)-1, -1, -1):
+    print(s[i],end='') """
+
