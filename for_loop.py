@@ -678,3 +678,17 @@ print(*l) """
 for i in range(len(s)-1, -1, -1):
     print(s[i],end='') """
 
+# row_num = 3
+# col_num = 2
+# """ multi_list1=[]
+# multi_list2=[]
+# for row in range(row_num):
+#     multi_list1.append(0) 
+# for col in range(col_num):
+#     multi_list2.append(0) 
+# multi_list = list([multi_list1]+[multi_list2])
+# print(multi_list)  """
+# # above double for loop instead of using single list by usin list comprehension
+# """ multi_list = [[0 for col in range(col_num)] for row in range(row_num)]
+# print(multi_list)  """
+
