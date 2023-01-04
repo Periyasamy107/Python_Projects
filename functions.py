@@ -1129,3 +1129,11 @@ def max_three(x,y,z):
 res = max_three(1,4,-6)
 print(res) """
 
+def factoriall(n):
+    if n<=0:
+        return 1
+    else:
+        return n*factoriall(n-1) 
+number = 4
+res = factoriall(number)
+print(res)
