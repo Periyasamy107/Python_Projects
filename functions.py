@@ -1122,3 +1122,10 @@ numbers = [1,2,3,4,5]
 result = prnt(total(numbers))
 print(sum(result)) """
 
+""" def max_two(x,y):
+    return max(x,y)
+def max_three(x,y,z):
+    return max(x,max_two(y,z))
+res = max_three(1,4,-6)
+print(res) """
+
