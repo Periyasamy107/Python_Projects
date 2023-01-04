@@ -1129,11 +1129,20 @@ def max_three(x,y,z):
 res = max_three(1,4,-6)
 print(res) """
 
-def factoriall(n):
+""" def factoriall(n):
     if n<=0:
         return 1
     else:
         return n*factoriall(n-1) 
 number = 4
 res = factoriall(number)
-print(res)
+print(res) """
+
+""" def fib(n):
+    if n==0 or n==1:
+        return n
+    return fib(n-1) + fib(n-2)
+
+res = fib(4)
+print(res) """
+
