@@ -1155,3 +1155,9 @@ print(res) """
 result = fun1(9)
 print(result(7)) """
 
+""" sample_string='''
+def add(a,b):
+    return a+b 
+print(f'{4} + {6} = ',add(4,6)) '''
+exec(sample_string) """
+
