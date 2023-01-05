@@ -1189,3 +1189,34 @@ print(hello()) """
 res = square()
 print(res) """
 
+""" def test_prime(n):
+    if (n==1):
+        return False
+    elif (n==2):
+        return True;
+    else:
+        for x in range(2,n):
+            if(n % x==0):
+                return False
+        return True             
+print(test_prime(4)) """
+
+""" for i in range(1,10):
+    c=0
+    for j in range(1,10):
+        if i%j==0:
+            c+=1
+    if c==2:
+        print(i) """
+
+""" def prime(n):
+    for i in range(2,n):
+        if n%i!=0:
+            return 'prime'
+        else:
+            return 'not prime'
+
+number = int(input('enter a number : '))
+print(prime(number))
+"""
+
