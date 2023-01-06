@@ -21,3 +21,14 @@ print(bike.speed,bike.mileage) """
 car = Vehicle(150,18,)
 print('car speed :',car.speed,'car mile :',car.mileage) """
 
+""" class S:
+    pass 
+class M:
+    pass 
+s1=S()
+m1=M()
+print(isinstance(s1,S))
+print(isinstance(m1,S))
+print(isinstance(m1,M))
+print(isinstance(s1,M)) """
+
