@@ -56,3 +56,15 @@ c1.Withdraw(1000)
 c1.Fees()
 c1.Display() """
 
+""" class Book:
+    def __init__(self,author,price):
+        self.author = author
+        self.price = price
+    def View(self):
+        print('Author : ',self.author)
+        print('Price : ',self.price)
+book1 = Book('william james',1000)
+book1.View()
+book2 = Book('Biggod',10000)
+book2.View() """
+
