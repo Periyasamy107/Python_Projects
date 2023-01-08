@@ -32,3 +32,27 @@ print(isinstance(m1,S))
 print(isinstance(m1,M))
 print(isinstance(s1,M)) """
 
+""" class Bank_account:
+    def __init__(self,acctnum,name,balance) :
+        self.acctnum = acctnum
+        self.name = name 
+        self.balance = balance 
+    def Deposit(self,d):
+        self.balance = self.balance + d
+    def Withdraw(self,w):
+        if (self.balance < w):
+            print('Insufficient balance')
+        else:
+            self.balance = self.balance - w 
+    def Fees(self):
+        self.balance = (98/100)*self.balance 
+    def Display(self):
+        print('Acct number : ', self.acctnum)
+        print('Name : ', self.name)
+        print('Balance : ', self.balance)
+c1 = Bank_account(12345546,'Hena',10000)
+c1.Deposit(5000)
+c1.Withdraw(1000)
+c1.Fees()
+c1.Display() """
+
