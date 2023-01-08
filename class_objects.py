@@ -68,3 +68,17 @@ book1.View()
 book2 = Book('Biggod',10000)
 book2.View() """
 
+""" class Bank_account:
+    def __init__(self):
+        self.balance = 0
+    def withdraw(self,amount):
+        self.balance -= amount
+        return self.balance
+    def deposit(self,amount):
+        self.balance += amount
+        return self.balance 
+a = Bank_account()
+print(a.balance)
+print(a.deposit(100))
+print(a.withdraw(40)) """
+
