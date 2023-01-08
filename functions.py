@@ -1220,3 +1220,18 @@ number = int(input('enter a number : '))
 print(prime(number))
 """
 
+# def make_account():
+#     return {'balance': 0}
+
+# def deposit(account, amount):
+#     account['balance'] += amount
+#     return account['balance']
+
+# def withdraw(account, amount):
+#     account['balance'] -= amount
+#     return account['balance']
+
+# a = make_account()
+# print(deposit(a,100))
+# print(withdraw(a,70)) 
+
