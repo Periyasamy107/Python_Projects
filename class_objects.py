@@ -109,3 +109,11 @@ e1 = Emp('god',1000)
 print(e1.name)
 print(e1.salary) """
 
+""" class Emp:
+    def __init__(self,salary):
+        self.salary = salary
+e1 = Emp(1000)
+print(e1.salary)
+e1.salary = 1500
+print(e1.salary) """
+
