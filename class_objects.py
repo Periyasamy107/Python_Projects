@@ -82,3 +82,12 @@ print(a.balance)
 print(a.deposit(100))
 print(a.withdraw(40)) """
 
+""" class Employee:
+    pass
+e1 = Employee()
+print(e1)
+e1.name = 'sam'
+print(e1.name)
+e1.age = 34
+print(e1.age) """
+
