@@ -91,3 +91,13 @@ print(e1.name)
 e1.age = 34
 print(e1.age) """
 
+""" class Emp:
+    name = 'sam'
+    salary = 1500
+    def tax(self):
+        print(self.salary*0.10)
+e1 = Emp()
+print(e1.name)
+print(e1.salary)
+e1.tax() """
+
