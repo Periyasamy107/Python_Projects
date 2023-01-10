@@ -151,3 +151,14 @@ for item in temp:
 # if __name__ == "__main__":
 #     main()
 
+
+# class Employee:
+#     pass 
+# e1 = Employee()
+# setattr(e1, 'salary', 5000)
+# e2 = Employee()
+# setattr(e2, 'age', 23)
+# print(e1.salary)
+# print(e2.age)
+
+
