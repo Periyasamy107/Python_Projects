@@ -162,3 +162,14 @@ for item in temp:
 # print(e2.age)
 
 
+# class Employee:
+#     def __init__(selfie,name,salary):
+#         selfie.name = name 
+#         selfie.salary = salary 
+#     def show_details(final):
+#         print('name : ',final.name)
+#         print('salary : ',final.salary)
+# e1 = Employee('god',5000)
+# e1.show_details()
+
+
