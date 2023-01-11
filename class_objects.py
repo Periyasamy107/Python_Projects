@@ -172,4 +172,15 @@ for item in temp:
 # e1 = Employee('god',5000)
 # e1.show_details()
 
+""" class Element:
+    def __init__(self, name, city, population):
+        self.name = name
+        self.city = city
+        self.population = population
+
+    def show(self):
+        return print(self.name,self.city,self.population)
+
+ele = Element('canada', 'tokyo', 321345)
+ele.show() """
 
