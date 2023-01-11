@@ -184,3 +184,28 @@ for item in temp:
 ele = Element('canada', 'tokyo', 321345)
 ele.show() """
 
+""" class myclass:
+    def __init__(self):
+        self.cnt = 0
+    def counter(self,function):
+        def wrapper(**args):
+            function(self,**args)
+            self.cnt += 1
+            print('counter inside wrapper : ',self.cnt)
+        return wrapper 
+
+global counter_object
+counter_object = myclass()
+
+@counter_object.counter
+def sample(self):
+    print('sample called')
+
+sample()
+sample()
+sample()
+sample()
+sample() """
+
+
+
