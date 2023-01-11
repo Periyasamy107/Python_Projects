@@ -1248,3 +1248,28 @@ def show():
 
 show() """
 
+""" def some_deco(arg=None):
+    def decorator(func):
+        def wrapper(*a,**ka):
+            if not callable(arg):
+                print(arg)
+                return func(*a,**ka)
+            else:
+                return 'XXXX'
+        return wrapper 
+    if callable(arg):
+        return decorator(arg)
+    else:
+        return decorator
+
+@some_deco(arg=10)
+def myfun():
+    print('my fun')
+
+@some_deco
+def myfun1():
+    print('my fun1')
+
+myfun()
+myfun1() """
+
