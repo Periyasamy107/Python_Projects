@@ -1235,3 +1235,16 @@ print(prime(number))
 # print(deposit(a,100))
 # print(withdraw(a,70)) 
 
+
+""" def my_deco(func):
+    def wrapper():
+        print('1')
+        func()
+        print('3')
+    return wrapper
+@my_deco
+def show():
+    print('2')
+
+show() """
+
