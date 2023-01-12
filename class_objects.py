@@ -238,3 +238,29 @@ test = Reverse('samy')
 for i in test:
     print(i,end='') """
 
+""" class Count:
+    def __init__(self,low,high):
+        self.low = low
+        self.high = high 
+    def __iter__(self):
+        while self.low < self.high:
+            yield self.low 
+            self.low+=1
+    def __next__(self):
+        if self.low > self.high:
+            raise StopIteration
+        else:
+            self.low+=1
+            return self.low-1 
+    def __reversed__(self):
+        while self.high>=self.low:
+            yield self.high
+            self.high-=1
+o1 = Count(0,5)
+for i in o1:
+    print(i)
+
+o2 = reversed(o1)
+for j in o2:
+    print(j)  """
+
